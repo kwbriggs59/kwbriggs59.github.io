@@ -20,11 +20,13 @@ body {
     width: 33%;
     float: left;
     background-color: #7c874f;
+    padding-bottom: 20px;
 }
 
 .right {
-    width: 66%;
+    width: 64%;
     float: right;
+    padding-right: 2%;
 }
 
 main {
